@@ -15,7 +15,7 @@
  * Date           Author       Notes
  * 2023-04-22     WangW       the first version
  */
-//#ifndef BSP_INC_B_OLED_H_
+#ifndef BSP_INC_B_OLED_H_
 #define BSP_INC_B_OLED_H_
 
 
